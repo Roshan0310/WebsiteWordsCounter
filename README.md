@@ -32,7 +32,7 @@ Start the server
 
 ## Running Tests
 
-Create .env in the /config folder and DB_URI(Mongodb Connection String) and PORT before testing the application
+Create .env in the /config folder and set  DB_URI(Mongodb Connection String) and PORT values before testing the application
 
 ```bash
   DB_URI = "mongodb://localhost:27017/wordCounter"
