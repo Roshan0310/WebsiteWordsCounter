@@ -26,7 +26,7 @@ Start the server
 
 ```bash
   node ./app.js (server)
-  npm start
+  npm start (client)
 ```
 
 
