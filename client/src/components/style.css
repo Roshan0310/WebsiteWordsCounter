@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.myForm{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    margin-top: 100px;
+   border: 1px solid ;
+   border-radius: 8px;
+
+}
+
+.Button:hover{
+    background-color: red;
+}
+
